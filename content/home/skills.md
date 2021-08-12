@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle:
+subtitle: 使用可能な技術とその他スキル
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -20,22 +20,31 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+
 - description: ""
-  icon: python
+  icon: github
   icon_pack: fab
-  name: Python
+  name: Git
+
 - description: ""
-  icon: python
+  icon: docker
   icon_pack: fab
-  name: Python
+  name: Docker
+
 - description: ""
-  icon: python
+  icon: linux
   icon_pack: fab
-  name: Python
+  name: Linux
+
 - description: ""
-  icon: python
+  icon: kaggle
   icon_pack: fab
-  name: Python
+  name: Kaggle Master
+
+- description: ""
+  icon: map
+  icon_pack: fa
+  name: GIS analysis
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
