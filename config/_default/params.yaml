@@ -119,36 +119,36 @@ projects:
 breadcrumb:
   page_types:
     book: true
-comments:
-  provider: ''
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: ''
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
+# comments:
+#   provider: ''
+#   commentable:
+#     post: true
+#     book: true
+#     project: true
+#     publication: true
+#     event: true
+#   disqus:
+#     shortname: ''
+#     show_count: true
+#   commento:
+#     url: ''
+# search:
+#   provider: wowchemy
+#   algolia:
+#     app_id: ''
+#     api_key: ''
+#     index_name: ''
+#     show_logo: false
+# map:
+#   provider: ''
+#   api_key: ''
+#   zoom: 15
+# marketing:
+#   google_analytics: ''
+#   google_tag_manager: ''
+#   google_site_verification: ''
+#   baidu_site_verification: ''
+#   baidu_tongji: ''
 cms:
   branch: master
   local_backend: false

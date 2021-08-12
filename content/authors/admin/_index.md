@@ -41,7 +41,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:h27.kubb@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:h27.kubb@gmail.com'  
 
 - icon: twitter
   icon_pack: fab
@@ -58,6 +58,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/kyohei-uto-370256181/
+
+- icon: speaker-deck
+  icon_pack: fab
+  link: https://speakerdeck.com/kuto5046
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 

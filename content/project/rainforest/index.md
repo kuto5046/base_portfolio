@@ -1,7 +1,7 @@
 ---
 title: Rainforest Connection Audio Species Detection
 subtitle: Automate the detection of bird and frog species in a tropical soundscape
-summary: 5th (Gold Medal)
+summary: 5th 🥇 
 tags:
 - kaggle
 date: "2021-02-17T00:00:00Z"
@@ -34,9 +34,9 @@ links:
   name: Blog
   url: https://kutohonn.hatenablog.com/entry/2021/02/18/224002
 
-- icon: slide # speaker-deck
+- icon: speaker-deck
   icon_pack: fab
-  name: Speaker Deck
+  name: Slide
   url: https://speakerdeck.com/kuto5046/niao-wa-konpefan-sheng-hui-birdcall-revengetimu
 
 ---
@@ -45,5 +45,5 @@ links:
 熱帯雨林で録音された音声から鳥の鳴き声を分類するコンペ。
 
 ### 結果
-5th/1143 (Gold Medal)
+5th/1143 🥇
 <!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->

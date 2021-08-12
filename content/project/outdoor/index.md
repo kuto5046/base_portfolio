@@ -1,7 +1,7 @@
 ---
 title: Google Smartphone Decimeter Challenge
 subtitle: Improve high precision GNSS positioning and navigation accuracy on smartphones
-summary: 18th (silver medal)
+summary: 18th 🥈
 tags:
 - kaggle
 
@@ -36,9 +36,9 @@ links:
   name: Blog
   url: https://kutohonn.hatenablog.com/entry/2021/08/09/102120
 
-- icon: slide # speaker-deck
+- icon: speaker-deck
   icon_pack: fab
-  name: Speaker Deck
+  name: Slide
   url: https://speakerdeck.com/kuto5046/18th-place-solution-in-gsdc
 
 ---
@@ -47,7 +47,7 @@ links:
 商業施設での屋内歩行者の位置推定コンペ。
 
 ### 結果
-18th/810 (silver medal)
+18th/810 🥈
 <!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->
 
 ### notebook

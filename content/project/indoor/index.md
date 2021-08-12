@@ -1,7 +1,7 @@
 ---
 title: Indoor Location & Navigation
 subtitle: Identify the position of a smartphone in a shopping mall
-summary: 16th (silver medal)
+summary: 16th 🥈
 tags:
 - kaggle
 
@@ -36,9 +36,9 @@ links:
   name: Blog
   url: https://kutohonn.hatenablog.com/entry/2021/05/20/221728
 
-- icon: slide # speaker-deck
+- icon: speaker-deck
   icon_pack: fab
-  name: Speaker Deck
+  name: Slide
   url: https://speakerdeck.com/kuto5046/kaggle-indoor-solution
 
 ---
@@ -47,7 +47,7 @@ links:
 商業施設での屋内歩行者の位置推定コンペ。
 
 ### 結果
-16th/1170
+16th/1170 🥈
 <!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->
 
 ### Notebook

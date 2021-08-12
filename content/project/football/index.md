@@ -1,7 +1,7 @@
 ---
 title: Google Research Football with Manchester City F.C.
 subtitle: Train agents to master the world's most popular sport
-summary: 59th (Bronze Medal)
+summary: 59th 🥉
 tags:
 - kaggle
 date: "2020-12-08T00:00:00Z"
@@ -41,7 +41,7 @@ links:
 サッカーエージェントを育てるシミュレーション(強化学習)コンペ
 
 ### 結果
-59th/1138
+59th/1138 🥉
 <!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->
 
 ### Notebook

@@ -5,12 +5,12 @@ widget: pages
 
 # This file represents a page section.
 headless: true
-active: true
+
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
-subtitle: '論文'
+title: Publications
+subtitle: '投稿した論文'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -34,7 +34,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 1
 ---
 
 <!-- {{% callout note %}}
