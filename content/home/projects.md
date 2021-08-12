@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: ML competition
-subtitle: '過去に参加したコンペの実績をまとめています'
+subtitle: '過去に参加したコンペの実績'
 
 content:
   # Page type to display. E.g. project.

@@ -63,6 +63,12 @@ social:
   icon_pack: fab
   link: https://speakerdeck.com/kuto5046
 
+- icon: book
+  icon_pack: fas
+  link: https://kutohonn.hatenablog.com/
+
+
+
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
