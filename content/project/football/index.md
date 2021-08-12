@@ -4,8 +4,7 @@ subtitle: Train agents to master the world's most popular sport
 summary: 59th (Bronze Medal)
 tags:
 - kaggle
-
-date_start: "2020-12-08T00:00:00Z"
+date: "2020-12-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "" #"https://www.kaggle.com/c/indoor-location-navigation"
