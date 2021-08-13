@@ -46,3 +46,10 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+機械学習コンペティションを通して以下のタスクに対するデータ分析、モデリングの経験を有しています。
+- 音声認識
+- 画像分類
+- 時系列データによる需要予測
+- ゲームシミュレータを用いた強化学習エージェントの開発
+- IMU/GNSS/Wifiデータを用いた位置推定
