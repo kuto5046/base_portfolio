@@ -1,11 +1,12 @@
 ---
 title: Rainforest Connection Audio Species Detection
 subtitle: Automate the detection of bird and frog species in a tropical soundscape
-summary: 5th 🥇 
+summary: 5th 🥇(team)
 tags:
 - kaggle
-date: "2021-02-17T00:00:00Z"
 
+date: "2021-02-17T00:00:00Z"
+weight: 0
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -45,5 +46,5 @@ links:
 熱帯雨林で録音された音声から鳥の鳴き声を分類するコンペ。
 
 ### 結果
-5th/1143 🥇
+5th/1143 🥇(team)
 <!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->

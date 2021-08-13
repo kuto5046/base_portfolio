@@ -1,10 +1,12 @@
 ---
 title: Google Research Football with Manchester City F.C.
 subtitle: Train agents to master the world's most popular sport
-summary: 59th 🥉
+summary: 59th 🥉(team)
 tags:
 - kaggle
+
 date: "2020-12-08T00:00:00Z"
+weight: 0
 
 # Optional external URL for project (replaces project detail page).
 external_link: "" #"https://www.kaggle.com/c/indoor-location-navigation"
@@ -41,7 +43,7 @@ links:
 サッカーエージェントを育てるシミュレーション(強化学習)コンペ
 
 ### 結果
-59th/1138 🥉
+59th/1138 🥉(team)
 <!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->
 
 ### Notebook

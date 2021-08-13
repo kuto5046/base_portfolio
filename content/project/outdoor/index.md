@@ -1,12 +1,12 @@
 ---
 title: Google Smartphone Decimeter Challenge
 subtitle: Improve high precision GNSS positioning and navigation accuracy on smartphones
-summary: 18th 🥈
+summary: 18th 🥈(team)
 tags:
 - kaggle
 
-date_start: "2021-08-04T00:00:00Z"
-
+date: "2021-08-04T00:00:00Z"
+weight: 0
 # Optional external URL for project (replaces project detail page).
 external_link: "" #"https://www.kaggle.com/c/indoor-location-navigation"
 
@@ -44,10 +44,10 @@ links:
 ---
 
 ### コンペ概要
-商業施設での屋内歩行者の位置推定コンペ。
+GNSSなどのデータを用いて車載スマホの位置推定を行うコンペ
 
 ### 結果
-18th/810 🥈
+18th/810 🥈(team)
 <!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->
 
 ### notebook

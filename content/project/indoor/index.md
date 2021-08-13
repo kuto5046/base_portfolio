@@ -1,12 +1,12 @@
 ---
 title: Indoor Location & Navigation
 subtitle: Identify the position of a smartphone in a shopping mall
-summary: 16th 🥈
+summary: 16th 🥈(team)
 tags:
 - kaggle
 
-date_start: "2021-03-17T00:00:00Z"
-
+date: "2021-05-17T00:00:00Z"
+weight: 0
 # Optional external URL for project (replaces project detail page).
 external_link: "" #"https://www.kaggle.com/c/indoor-location-navigation"
 
@@ -47,7 +47,7 @@ links:
 商業施設での屋内歩行者の位置推定コンペ。
 
 ### 結果
-16th/1170 🥈
+16th/1170 🥈(team)
 <!-- ![](https://github.com/kuto5046/kaggle-indoor/blob/main/img/lb.png) -->
 
 ### Notebook
