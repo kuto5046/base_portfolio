@@ -20,6 +20,11 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
+links:
+- icon: github
+  icon_pack: fab
+  name: GitHub
+  url: https://github.com/kuto5046/papers
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 # image:
