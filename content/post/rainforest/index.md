@@ -27,6 +27,11 @@ featured: false
 #   focal_point: ""
 #   placement: 2
 #   preview_only: false
+links:
+- icon: speaker-deck
+  icon_pack: fab
+  name: Slide
+  url: https://speakerdeck.com/kuto5046/niao-wa-konpefan-sheng-hui-birdcall-revengetimu
 
 authors:
 - admin

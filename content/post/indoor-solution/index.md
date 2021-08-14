@@ -1,5 +1,5 @@
 ---
-title: indoor 16th place solution
+title: Indoor 16th place solution
 subtitle: ""
 
 # Summary for listings and search engines
@@ -27,6 +27,11 @@ featured: false
 #   focal_point: ""
 #   placement: 2
 #   preview_only: false
+links:
+- icon: speaker-deck
+  icon_pack: fab
+  name: Slide
+  url: https://speakerdeck.com/kuto5046/kaggle-indoor-solution
 
 authors:
 - admin

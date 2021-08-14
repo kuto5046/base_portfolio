@@ -25,6 +25,12 @@ links:
   icon_pack: fab
   name: GitHub
   url: https://github.com/kuto5046/papers
+
+- icon: twitter
+  icon_pack: fab
+  name: Twitter
+  url: https://twitter.com/i/moments/1426452003673104387
+
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 # image:
