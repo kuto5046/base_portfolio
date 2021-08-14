@@ -1,9 +1,9 @@
 ---
-title: 強化学習１日１論文
+title: 強化学習1日1論文
 subtitle: ""
 
 # Summary for listings and search engines
-summary: "強化学習に対する理解を深めるために１日１本、深層強化学習に関する論文を読んでいたときのまとめです。"
+summary: "強化学習に対する理解を深めるために深層強化学習に関する論文を１ヶ月間読んでいたときのまとめです。"
 
 # Link this post with a project
 projects: []
@@ -39,4 +39,4 @@ categories:
 - "twitter"
 ---
 
-https://twitter.com/i/events/1426452003673104387?s=20
+<a class="twitter-moment" href="https://twitter.com/i/moments/1426452003673104387?ref_src=twsrc%5Etfw">強化学習１日１論文</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
