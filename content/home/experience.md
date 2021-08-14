@@ -14,7 +14,7 @@ subtitle: これまでの経歴
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2006/01
+date_format: 2006/01/
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -30,7 +30,7 @@ experience:
     date_start: '2020-04-01'
     date_end: ''
     description: |2-
-      都市に存在する社会インフラを対象に、地理空間データやグラフネットワークデータを扱ったデータ分析、アルゴリズム開発をpythonを使って行なっております。またstreamlitを活用して開発技術のプロトタイプ化・社内ツール化にも取り組んでいます。直近では3D都市モデルの利活用にも取り組んでいます。
+      都市に存在する社会インフラを対象に、地理空間データやグラフネットワークデータを扱ったデータ分析、アルゴリズム開発をpythonを使って行なっております。直近ではstreamlitを使用して開発技術のプロトタイプ化や3D都市モデルの利活用にも取り組んでいます。
 
   - title: Graduate Student
     company: Kumamoto University
