@@ -5,7 +5,7 @@
 
 title: Portfolio # Website name
 baseurl: 'https://kuto5046.github.io/portfolio/' # Website URL
-copyright: 'kuto' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} by Kyohei Uto' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
