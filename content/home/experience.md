@@ -42,8 +42,7 @@ experience:
     description: |2-
       B4からM2まで溶接金属の靱性を高めるための鉄鋼組織微細化技術に関する研究を行なっていました。
       M2から鉄鋼材料の電子顕微鏡(SEM)画像に対して画像認識・機械学習を適用し組織分類を行う研究も並行して行ない、
-      修士論文を両テーマで２本書きました。後者のテーマで卒業後に共著でジャーナルに投稿しました。[Link](http://localhost:1313/portfolio/publication/journal-article/)
-
+      修士論文を両テーマで２本書きました。後者のテーマで卒業後に共著でジャーナルに投稿しました。[Link](https://kuto5046.github.io/portfolio/publication/journal-article/)
 design:
   columns: '2'
 ---
