@@ -22,15 +22,26 @@ date_format: 2006/01/
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Machine Learning Engineer
+    company: Mobility Technologies
+    company_url: ''
+    # company_logo: org-gc
+    location: Roppongi, Tokyo, Japan
+    date_start: '2021-12-01'
+    date_end: ''
+    description: |2-
+      
+
   - title: Researcher
     company: Hitachi, Ltd.
     company_url: ''
     # company_logo: org-gc
     location: Yokohama, Kanagawa, Japan
     date_start: '2020-04-01'
-    date_end: ''
+    date_end: '2021-11-01'
     description: |2-
-      都市に存在する社会インフラを対象に、地理空間データやグラフネットワークデータを扱ったデータ分析、アルゴリズム開発をpythonを使って行なっております。直近ではstreamlitを使用して開発技術のプロトタイプ化や3D都市モデルの利活用にも取り組んでいます。
+      都市に存在する社会インフラを対象に、地理空間データやグラフネットワークデータを扱ったデータ分析、アルゴリズム開発を行なっておりました。
 
   - title: Graduate Student
     company: Kumamoto University

@@ -6,11 +6,11 @@ title: 宇都恭平
 superuser: true
 
 # Role/position/tagline
-role: R&D
+role: ML Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Hitachi, Ltd.
+- name: Mobility Technologies Co., Ltd.
 
 # Short bio (displayed in user profile at end of posts)
 bio: Kaggle Competitions Master
@@ -83,6 +83,7 @@ email: "h27.kubb@gmail.com"
 highlight_name: false
 ---
 
-学生時代は鉄鋼材料の電子顕微鏡(SEM)画像に対する画像認識・機械学習を用いた研究を行なっていました。
+
+<!-- 学生時代は鉄鋼材料の電子顕微鏡(SEM)画像に対する画像認識・機械学習を用いた研究を行なっていました。
 業務では地理空間データやグラフネットワークデータを扱ったデータ分析、アルゴリズム開発を行なっています。
-普段は機械学習コンペに参加しており、現在Kaggle Masterです。
+普段は機械学習コンペに参加しており、現在Kaggle Masterです。 -->

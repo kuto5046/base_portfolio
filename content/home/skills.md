@@ -4,7 +4,7 @@
 widget: featurette
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 60
@@ -61,6 +61,6 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
-Python/Docker/Git/Linux/クラウド(GCP,AWS)を用いた分析・モデリング経験があります。  
-GISデータを対象とした分析に強みを持っています。
+<!-- Python/Docker/Git/Linux/クラウド(GCP,AWS)を用いた分析・モデリング経験があります。  
+GISデータを対象とした分析に強みを持っています。 -->
   
