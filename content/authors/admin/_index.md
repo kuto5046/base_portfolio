@@ -6,7 +6,7 @@ title: 宇都恭平
 superuser: true
 
 # Role/position/tagline
-role: ML Engineer
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,7 +17,6 @@ bio: Kaggle Competitions Master
 
 # Interests to show in About widget
 interests:
-- 機械学習
 - 強化学習
 - 数理最適化
 - 地理空間分析
@@ -82,8 +81,5 @@ email: "h27.kubb@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-
-<!-- 学生時代は鉄鋼材料の電子顕微鏡(SEM)画像に対する画像認識・機械学習を用いた研究を行なっていました。
-業務では地理空間データやグラフネットワークデータを扱ったデータ分析、アルゴリズム開発を行なっています。
-普段は機械学習コンペに参加しており、現在Kaggle Masterです。 -->
+Kaggle Master.  
+強化学習や数理最適化の社会適用に興味があります。

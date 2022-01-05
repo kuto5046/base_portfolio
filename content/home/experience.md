@@ -23,25 +23,26 @@ date_format: 2006/01/
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Machine Learning Engineer
+  - title: Data Scientist
     company: Mobility Technologies
-    company_url: ''
+    company_url: 'https://mo-t.com/'
     # company_logo: org-gc
     location: Roppongi, Tokyo, Japan
     date_start: '2021-12-01'
     date_end: ''
     description: |2-
+      自社プロダクトのアルゴリズム・機械学習に関連する分析・開発業務を行なっています。
       
 
   - title: Researcher
-    company: Hitachi, Ltd.
+    company: Hitachi
     company_url: ''
     # company_logo: org-gc
     location: Yokohama, Kanagawa, Japan
     date_start: '2020-04-01'
     date_end: '2021-11-01'
     description: |2-
-      都市に存在する社会インフラを対象に、地理空間データやグラフネットワークデータを扱ったデータ分析、アルゴリズム開発を行なっておりました。
+      水道インフラを対象としたリスク評価、修理計画に関するデータ分析、アルゴリズム開発を行なっておりました。主に地理空間データやグラフネットワークデータを扱っていました。
 
   - title: Graduate Student
     company: Kumamoto University
@@ -51,9 +52,7 @@ experience:
     date_start: '2018-04-01'
     date_end: '2020-03-01'
     description: |2-
-      B4からM2まで溶接金属の靱性を高めるための鉄鋼組織微細化技術に関する研究を行なっていました。
-      M2から鉄鋼材料の電子顕微鏡(SEM)画像に対して画像認識・機械学習を適用し組織分類を行う研究も並行して行ない、
-      修士論文を両テーマで２本書きました。後者のテーマで卒業後に共著でジャーナルに投稿しました。[Link](https://kuto5046.github.io/portfolio/publication/journal-article/)
+      B4からM2まで溶接金属の靱性を高めるための鉄鋼組織微細化技術に関する研究を行なっていました。その後機械学習に興味を持ち、M2からは鉄鋼材料の電子顕微鏡(SEM)画像に対して画像認識・機械学習を適用し組織分類を行う研究も並行して行ないました。[Link](https://kuto5046.github.io/portfolio/publication/journal-article/)
 design:
   columns: '2'
 ---
